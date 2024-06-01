@@ -36,3 +36,5 @@ Li Lab, University of Central Florida
 
 ⚡ Fun facts: I love playing tennis and building aquariums!
 
+[Resume](https://drive.google.com/file/d/1MSZ4lnnoo0axsTZl-oN3dPVsHBkA_Qqt/view?usp=sharing)
+
