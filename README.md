@@ -34,7 +34,7 @@ Strategic Reasoning Group, University of Michigan
 Li Lab, University of Central Florida	    
   🧬 Engineered a bioinformatics pipeline and a motif-finding algorithm that processed 45 million lines of DNA sequence alignment reads to discover 201 proteins correlated with cancer development
 
-⚡ Fun facts: I love playing tennis and building aquariums!
+⚡ Fun facts: I love playing tennis 🎾 and building aquariums 🐠!
 
 [Resume](https://drive.google.com/file/d/1MSZ4lnnoo0axsTZl-oN3dPVsHBkA_Qqt/view?usp=sharing)
 
