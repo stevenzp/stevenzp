@@ -1,4 +1,4 @@
-## Hi there, I'm Steven Zhang 👋
+## Hi there, I'm Steven 👋
 
 <!--
 **stevenzp/stevenzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm a third-year Computer Science major at the University of 〽️ichigan with a minor in Mathematics and Statistics. My interests lie in machine learning, algorithmic game theory, and intelligent AI agents. 
 
-### Experience:   	    
+Experience:   	    
 
 Software Engineering Intern at S-Docs 	    
   🔧 Designed and deployed custom Apex Components for the S-Docs application, meeting stakeholder requirements, reducing feature request turnaround time by 33%, and enhancing overall app functionality
@@ -35,6 +35,8 @@ Li Lab, University of Central Florida
   🧬 Engineered a bioinformatics pipeline and a motif-finding algorithm that processed 45 million lines of DNA sequence alignment reads to discover 201 proteins correlated with cancer development
 
 ⚡ Fun facts: I love playing tennis 🎾 and building aquariums 🐠!
+
+* He was not fast. Speed means nothing. Math doesn’t depend on speed. It is about deep *
 
 [Resume](https://drive.google.com/file/d/1MSZ4lnnoo0axsTZl-oN3dPVsHBkA_Qqt/view?usp=sharing)
 
