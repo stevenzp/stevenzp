@@ -36,7 +36,7 @@ Li Lab, University of Central Florida
 
 ⚡ Fun facts: I love playing tennis 🎾 and building aquariums 🐠!
 
-_He was not fast. Speed means nothing. Math doesn’t depend on speed. It is about deep_
+_He was not fast. Speed means nothing. Math doesn’t depend on speed. It is about deep._
 
 [Resume](https://drive.google.com/file/d/1MSZ4lnnoo0axsTZl-oN3dPVsHBkA_Qqt/view?usp=sharing)
 
