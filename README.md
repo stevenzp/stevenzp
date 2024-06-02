@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm a third-year Computer Science major at the University of 〽️ichigan with a minor in Mathematics and Statistics. My interests lie in machine learning, algorithmic game theory, and intelligent AI agents. 
 
-<u>Experience:</u>  	    
+<ins>Experience:</ins>  
 
 Software Engineering Intern at S-Docs 	    
   🔧 Designed and deployed custom Apex Components for the S-Docs application, meeting stakeholder requirements, reducing feature request turnaround time by 33%, and enhancing overall app functionality
