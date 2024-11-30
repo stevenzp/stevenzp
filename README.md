@@ -17,22 +17,6 @@ Here are some ideas to get you started:
 
 ### I'm a third-year Computer Science major at the University of 〽️ichigan with a minor in Mathematics and Statistics. My interests lie in machine learning, algorithmic game theory, and intelligent AI agents. 
 
-[Resume](https://drive.google.com/file/d/172Dn6QAaCtYA3KL-6lgpQ9TL3XDkk_o9/view?usp=sharing)
 
-<ins>Experience:</ins>  
-  
-  🔧 Software Engineering Intern at S-Docs 	    
-  
-  💻 MHacks Logistics & Core Team	    
-  
-  🌱 Turtle Tank, backed by Stanford Doerr School of Sustainability	    
-  
-  💡 Strategic Reasoning Group, University of Michigan	    
-  
-  🧬 Li Lab, University of Central Florida	    
-
-⚡ Fun facts: I love playing tennis 🎾 and building aquariums 🐠!
-
-_He was not fast. Speed means nothing. Math doesn’t depend on speed. It is about deep._
 
 
